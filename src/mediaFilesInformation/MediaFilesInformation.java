@@ -16,7 +16,7 @@ import javax.swing.JFrame;
  *
  * @author rem711
  */
-public class VideoFilesInformation extends JFrame {
+public class MediaFilesInformation extends JFrame {
 
     /**
      * @param args the command line arguments
