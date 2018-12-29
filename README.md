@@ -10,5 +10,5 @@ After listing your files, it generates web pages where you can find information 
 In an other iteration, I think to implement the ability to play the file in your browser.
 
 Technos :
-  - Java (default JRE8), Swing for the UI, using Thread to increase the time needed to get files information
+  - Java (default JDK8), Swing for the UI, using Thread to increase the time needed to get files information
   - HTML/CSS/Javascript, I'll probably add Bootstrap or Foundation for the look and feel and to use it js too
