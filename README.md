@@ -12,3 +12,6 @@ In an other iteration, I think to implement the ability to play the file in your
 Technos :
   - Java (default JDK8), Swing for the UI, using Thread to increase the time needed to get files information
   - HTML/CSS/Javascript, I'll probably add Bootstrap or Foundation for the look and feel and to use it js too
+  
+  Before to use it :
+    In mediaFilesInformationWeb\libs\js\index.js chnage the API_KEY at the begining of the file with your own. To get one go to : https://www.omdbapi.com/apikey.aspx
